@@ -8,7 +8,7 @@ Guía para usar neru:
 ```
 	ollama pull mistral:7B
 ```
-4. NeruIzar la IA
+3. NeruIzar la IA
 ```
 	ollama cp mistral neru
 ```
@@ -16,5 +16,5 @@ Guía para usar neru:
 ```
   ollama rm mistral
 ```
-6. Instalar [Kilo code](https://kilo.ai/) en tu IDE de confianza
+4. Instalar [Kilo code](https://kilo.ai/) en tu IDE de confianza
 	una vez instalado clickear en la opcion "use your own API key", cambiar el "API Provider" a Ollama y seleccionar a Neru (es importante tener en cuenta aumentar el Context Window Size a un valor minimo de 32000) y Listo ya tenés a la confiable IA Neru
