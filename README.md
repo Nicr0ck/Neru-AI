@@ -18,5 +18,5 @@ Guía para usar neru:
 ```
   ollama rm mistral
 ```
-6. Instalar Kilo code en tu IDE de confianza
+6. Instalar [Kilo code](https://kilo.ai/) en tu IDE de confianza
 	una vez instalado clickear en la opcion "use your own API key", cambiar el "API Provider" a Ollama y seleccionar a Neru (es importante tener en cuenta aumentar el Context Window Size a un valor minimo de 32000) y Listo ya tenés a la confiable IA Neru
