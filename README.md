@@ -12,7 +12,7 @@ Guía para usar neru:
 	```
 	ollama cp mistral neru
 	```
-  	(la siguiente accion es opcional
+  	(la siguiente accion es opcional)
 ```
   ollama rm mistral
 ```
