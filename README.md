@@ -9,10 +9,10 @@ Guía para usar neru:
 	ollama pull mistral:7B
 ```
 3. NeruIzar la IA
-	```
+```
 	ollama cp mistral neru
-	```
-  	(la siguiente accion es opcional)
+```
+3.5. Borrar Mistral (opcional)
 ```
   ollama rm mistral
 ```
